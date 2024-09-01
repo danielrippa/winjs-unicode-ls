@@ -10,12 +10,8 @@
     { boolean-as-binary-digit, binary-digit-as-boolean } = dependency 'native.Boolean'
     { map-items } = dependency 'native.Array'
 
-    { outln } = dependency 'prelude.IO'
-
     #
-
-
-
+  
     missing-chars =
 
       '': bd.empty-block
